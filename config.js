@@ -4,9 +4,9 @@ const { Channel } = require("discord.js");
 
 module.exports ={
     //discord bot token
-    BotToken: 'BOT TOKEN',
+    BotToken: ODM0ODMwODk1NDI0MDc3ODQ2YIGm2wCn5czwiIhor1IGmh0rj1kgfMhxc,
 
-    ChannelID: "CHANNEL ID",
+    ChannelID: 😁cowboy-quotes,
 
 
 }
